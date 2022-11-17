@@ -9,12 +9,14 @@ System.Console.Write("Введите второе число   ");
 int numb2=Convert.ToInt32(Console.ReadLine());
 
 if (numb1>numb2)
-{System.Console.Write($"max={numb1}");
-System.Console.Write($"min={numb2}");
-}
+    {System.Console.Write($"max={numb1}   ");
+    System.Console.Write($"   min={numb2}");
+    }
 
 else
-if(numb1==numb2)
-{System.Console.Write($"max={numb2}    ");
-System.Console.Write($"   min={numb1}");
+    {if(numb1==numb2)
+        {System.Console.Write($"Числа равны");}
+    else
+        {System.Console.Write($"max={numb2}   ");
+        System.Console.Write($"   min={numb1}");}
     }
