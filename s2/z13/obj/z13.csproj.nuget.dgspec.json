@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\s2\\z13\\z13.csproj": {}
+    "C:\\Users\\ро\\Downloads\\C#\\s2\\z13\\z13.csproj": {}
   },
   "projects": {
-    "C:\\C#\\s2\\z13\\z13.csproj": {
+    "C:\\Users\\ро\\Downloads\\C#\\s2\\z13\\z13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\s2\\z13\\z13.csproj",
+        "projectUniqueName": "C:\\Users\\ро\\Downloads\\C#\\s2\\z13\\z13.csproj",
         "projectName": "z13",
-        "projectPath": "C:\\C#\\s2\\z13\\z13.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\s2\\z13\\obj\\",
+        "projectPath": "C:\\Users\\ро\\Downloads\\C#\\s2\\z13\\z13.csproj",
+        "packagesPath": "C:\\Users\\ро\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ро\\Downloads\\C#\\s2\\z13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ро\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

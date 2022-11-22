@@ -7,26 +7,33 @@ System.Console.Write("Введите число   ");
 
 int numb=Convert.ToInt32(Console.ReadLine());
 
-int count=3;  
+int N = numb;
+
+int count=0;
+
+while (N>0){
+
+N=N/10;
+
+count++;}
 
 int[] digits;
 
-if(numb>99){
+digits = new int[count];
 
-while (numb>0)
+if(count>2){
 
-{
-    digits = new int[count];
-
-    digits[count]=numb%10;
-
-    numb = numb/10;
+for (int i = 0; i < count;i++)
+{   digits[i]=numb%10;
     
-    count++;
-}
+    numb = numb/10;
+
+} 
+
+int dig3 = count-3;
+
+Console.Write(digits[dig3]);
    
 }
 
-else {Console.Write($"Число двузначное, третьей цифры нет.");}
-
-Console.Write(digits[2]);
+else {Console.Write($"Число двузначное, третья цифра отсутствует.");}
