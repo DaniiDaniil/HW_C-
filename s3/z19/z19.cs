@@ -6,7 +6,7 @@
 
 System.Console.Write("Введите число   ");
 
-int numb=Convert.ToInt32(Console.ReadLine());
+int numb=Math.Abs(Convert.ToInt32(Console.ReadLine()));
 
 int N = numb;
 
