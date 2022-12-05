@@ -1,0 +1,15 @@
+C:\C#\s6\zdop\obj\Debug\net6.0\zdop.csproj.AssemblyReference.cache
+C:\C#\s6\zdop\obj\Debug\net6.0\zdop.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\s6\zdop\obj\Debug\net6.0\zdop.AssemblyInfoInputs.cache
+C:\C#\s6\zdop\obj\Debug\net6.0\zdop.AssemblyInfo.cs
+C:\C#\s6\zdop\obj\Debug\net6.0\zdop.csproj.CoreCompileInputs.cache
+C:\C#\s6\zdop\bin\Debug\net6.0\zdop.exe
+C:\C#\s6\zdop\bin\Debug\net6.0\zdop.deps.json
+C:\C#\s6\zdop\bin\Debug\net6.0\zdop.runtimeconfig.json
+C:\C#\s6\zdop\bin\Debug\net6.0\zdop.dll
+C:\C#\s6\zdop\bin\Debug\net6.0\zdop.pdb
+C:\C#\s6\zdop\obj\Debug\net6.0\zdop.dll
+C:\C#\s6\zdop\obj\Debug\net6.0\refint\zdop.dll
+C:\C#\s6\zdop\obj\Debug\net6.0\zdop.pdb
+C:\C#\s6\zdop\obj\Debug\net6.0\zdop.genruntimeconfig.cache
+C:\C#\s6\zdop\obj\Debug\net6.0\ref\zdop.dll
